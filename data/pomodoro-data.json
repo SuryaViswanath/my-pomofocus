@@ -1,0 +1,168 @@
+{
+  "total_hours": 0.0,
+  "sessions": [
+    {
+      "id": "20",
+      "task_id": "16",
+      "task_name": "test",
+      "category": "LLMs & NLP",
+      "started_at": "2025-10-04T09:24:42.554837+01:00",
+      "ended_at": "2025-10-04T09:24:57.593288+01:00",
+      "seconds": 15,
+      "minutes": 0
+    }
+  ],
+  "categories": {
+    "LLMs & NLP": {
+      "pomodoros_completed": 1,
+      "total_seconds": 15,
+      "total_hours": 0.0
+    }
+  },
+  "tasks": [
+    {
+      "id": "1",
+      "name": "test",
+      "category": "Machine Learning",
+      "estimated_pomodoros": 0.1,
+      "completed_pomodoros": 0,
+      "created_at": "2025-10-04T00:13:38.364190+01:00",
+      "note": ""
+    },
+    {
+      "id": "2",
+      "name": "test",
+      "category": "Research",
+      "estimated_pomodoros": 1.0,
+      "completed_pomodoros": 0,
+      "created_at": "2025-10-04T00:15:12.043456+01:00",
+      "note": ""
+    },
+    {
+      "id": "3",
+      "name": "test",
+      "category": "Research",
+      "estimated_pomodoros": 0.01,
+      "completed_pomodoros": 0,
+      "created_at": "2025-10-04T00:18:27.288937+01:00",
+      "note": ""
+    },
+    {
+      "id": "4",
+      "name": "test",
+      "category": "Machine Learning",
+      "estimated_pomodoros": 0.03,
+      "completed_pomodoros": 0,
+      "created_at": "2025-10-04T00:18:47.016321+01:00",
+      "note": ""
+    },
+    {
+      "id": "5",
+      "name": "new task",
+      "category": "Research",
+      "estimated_pomodoros": 1.0,
+      "completed_pomodoros": 0,
+      "created_at": "2025-10-04T00:38:33.971629+01:00",
+      "note": ""
+    },
+    {
+      "id": "6",
+      "name": "another task",
+      "category": "Coding",
+      "estimated_pomodoros": 1.0,
+      "completed_pomodoros": 0,
+      "created_at": "2025-10-04T00:38:57.806302+01:00",
+      "note": ""
+    },
+    {
+      "id": "7",
+      "name": "test",
+      "category": "LLMs & NLP",
+      "estimated_pomodoros": 3.0,
+      "completed_pomodoros": 0,
+      "created_at": "2025-10-04T00:39:14.804935+01:00",
+      "note": ""
+    },
+    {
+      "id": "8",
+      "name": "test",
+      "category": "Computer Vision",
+      "estimated_pomodoros": 2.0,
+      "completed_pomodoros": 0,
+      "created_at": "2025-10-04T00:39:42.853287+01:00",
+      "note": ""
+    },
+    {
+      "id": "9",
+      "name": "test",
+      "category": "LLMs & NLP",
+      "estimated_pomodoros": 0.01,
+      "completed_pomodoros": 0,
+      "created_at": "2025-10-04T00:46:11.153048+01:00",
+      "note": ""
+    },
+    {
+      "id": "10",
+      "name": "test",
+      "category": "Machine Learning",
+      "estimated_pomodoros": 0.01,
+      "completed_pomodoros": 0,
+      "created_at": "2025-10-04T00:49:52.755301+01:00",
+      "note": ""
+    },
+    {
+      "id": "11",
+      "name": "etst",
+      "category": "Machine Learning",
+      "estimated_pomodoros": 0.01,
+      "completed_pomodoros": 0,
+      "created_at": "2025-10-04T00:55:29.381101+01:00",
+      "note": ""
+    },
+    {
+      "id": "12",
+      "name": "test",
+      "category": "Research",
+      "estimated_pomodoros": 0.01,
+      "completed_pomodoros": 0,
+      "created_at": "2025-10-04T00:57:05.259988+01:00",
+      "note": ""
+    },
+    {
+      "id": "13",
+      "name": "test",
+      "category": "Computer Vision",
+      "estimated_pomodoros": 0.01,
+      "completed_pomodoros": 0,
+      "created_at": "2025-10-04T00:59:50.052277+01:00",
+      "note": ""
+    },
+    {
+      "id": "14",
+      "name": "test",
+      "category": "Computer Vision",
+      "estimated_pomodoros": 0.01,
+      "completed_pomodoros": 0,
+      "created_at": "2025-10-04T01:01:54.734935+01:00",
+      "note": ""
+    },
+    {
+      "id": "15",
+      "name": "test",
+      "category": "Research",
+      "estimated_pomodoros": 0.01,
+      "completed_pomodoros": 0,
+      "created_at": "2025-10-04T01:04:25.215998+01:00",
+      "note": ""
+    },
+    {
+      "id": "16",
+      "name": "test",
+      "category": "LLMs & NLP",
+      "estimated_pomodoros": 0.01,
+      "completed_pomodoros": 1,
+      "created_at": "2025-10-04T10:24:39.393698+01:00",
+      "note": ""
+    }
+  ]
+}
