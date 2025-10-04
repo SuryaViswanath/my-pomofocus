@@ -1,5 +1,5 @@
 {
-  "total_hours": 0.01,
+  "total_hours": 0.02,
   "sessions": [
     {
       "id": "20",
@@ -30,6 +30,16 @@
       "ended_at": "2025-10-04T09:27:13.167762+01:00",
       "seconds": 15,
       "minutes": 0
+    },
+    {
+      "id": "23",
+      "task_id": "18",
+      "task_name": "fix timer feature",
+      "category": "Coding",
+      "started_at": "2025-10-04T09:29:25.931292+01:00",
+      "ended_at": "2025-10-04T09:30:06.684756+01:00",
+      "seconds": 15,
+      "minutes": 0
     }
   ],
   "categories": {
@@ -44,6 +54,11 @@
       "total_hours": 0.0
     },
     "Machine Learning": {
+      "pomodoros_completed": 1,
+      "total_seconds": 15,
+      "total_hours": 0.0
+    },
+    "Coding": {
       "pomodoros_completed": 1,
       "total_seconds": 15,
       "total_hours": 0.0
@@ -201,6 +216,15 @@
       "estimated_pomodoros": 0.01,
       "completed_pomodoros": 1,
       "created_at": "2025-10-04T10:25:56.154339+01:00",
+      "note": ""
+    },
+    {
+      "id": "18",
+      "name": "fix timer feature",
+      "category": "Coding",
+      "estimated_pomodoros": 3.0,
+      "completed_pomodoros": 1,
+      "created_at": "2025-10-04T10:29:18.632082+01:00",
       "note": ""
     }
   ]
